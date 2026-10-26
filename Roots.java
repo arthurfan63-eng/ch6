@@ -1,4 +1,4 @@
-public class ch62{
+public class Roots{
 
 
 public static void main(String[] args){
@@ -32,4 +32,3 @@ return a2;
 
 
 }
-
